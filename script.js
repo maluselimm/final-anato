@@ -73,7 +73,7 @@ const temas = [
     "Experiencia 71: Corte retrocalloso, Hombro, Cuello/Tráquea, Rodilla, Estómago",
     "Experiencia 72: Cuello, Antebrazo, Corte postero/retro, Próstata, Órbita",
     "Experiencia 73: Fosa craneal media, Corte geniculocapsular, Vías biliares, PVN cuello, Cuerpo calloso, Tiroides",
-    "Experiencia 74: Corte antero y postero, Vasos cuello, Arterias pelvis, Triángulo femoral, Epitálamo, Riñón"
+    "Experiencia 74: Corte antero y postero, Vasos cuello, Arterias pelvis, Triángulo femoral, Epitálamo, Riñón",
     "Rodilla (Biomecánica y Ligamentos)",
     "Corazón (Configuración y Cardionector)",
     "Cortes del Encéfalo (Jacob y Flechsig)",
@@ -114,6 +114,7 @@ function mostrarTemaAleatorio() {
 
 // Chama a função na carga inicial da página
 window.onload = mostrarTemaAleatorio;
+
 
 
 
