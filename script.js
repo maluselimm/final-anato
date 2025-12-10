@@ -130,7 +130,7 @@ const temas = [
     "SCLDM",
     "Vía cortico espinal",
     "Vía visual",
-    "Vía auditiva (mono y bi)",
+    "Vía auditiva (mono y bi)"
 
 ];
 
@@ -142,6 +142,7 @@ function mostrarTemaAleatorio() {
 
 // Chama a função na carga inicial da página
 window.onload = mostrarTemaAleatorio;
+
 
 
 
